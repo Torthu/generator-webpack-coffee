@@ -1,0 +1,14 @@
+{
+	"name": "generator-webpack-coffee",
+	"version": "1.0.0",
+	"description": "A generator for a simple Coffee, Webpack and Mocha project.",
+	"keywords": [
+		"yeoman-generator"
+	],
+	"main": "app/index.js",
+	"dependencies": {
+		"yeoman-generator": "~0.13.0"
+	},
+	"author": "Torstein Thune <torstein@gmail.com> (http://thune.io/)",
+	"license": "MIT"
+}
